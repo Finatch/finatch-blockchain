@@ -1,0 +1,2 @@
+debian/bin/finatchd usr/bin
+src/finatchd usr/lib/finatch
