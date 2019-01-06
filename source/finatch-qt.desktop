@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Finatch
+Comment=Finatch P2P Cryptocurrency
+Comment[fr]=Finatch, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Finatch, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/finatch-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/finatch;
+Categories=Office;
