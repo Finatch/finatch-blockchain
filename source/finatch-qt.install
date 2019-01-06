@@ -1,0 +1,5 @@
+finatch-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/finatch-qt.desktop usr/share/applications
+debian/finatch-qt.protocol usr/share/kde4/services/
