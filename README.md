@@ -88,3 +88,17 @@ Changes should be tested by somebody other than the developer who wrote the
 code. This is especially important for large or high-risk changes. It is useful
 to add a test plan to the pull request description if testing the changes is
 not straightforward.
+
+## Resources
+1. [Website](https://finatch.org)
+1. [Blog](https://blog.finatch.org)
+1. [Developer Portal](https://developers.finatch.org)
+1. [Discord for Q&A](https://discord.gg/yCggc7c)
+1. [Community Telegram Group](https://t.me/finatch)
+1. [Developer Telegram Group](https://t.me/finatch_core_developers)
+1. [White Paper](https://finatch.org/finatchcore.pdf)
+1. [Roadmap](https://finatch.org)
+
+<a name="gettingstarted"></a>
+## Getting Started
+Instructions detailing the process of getting the software, building it, running a simple test network that produces blocks, account creation and uploading a sample contract to the blockchain can be found in [Getting Started](https://developers.finatch.org) on the [Finatch Core Developer Portal](https://developers.finatch.org).
